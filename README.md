@@ -30,7 +30,7 @@ To view the website locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/alnabil07/Website_using_Figma_and_Coded_by_LocofyAl.git
+   git clone https://github.com/alnabil07/code-studio-website.git
 Navigate to the project directory:
 bash
 Copy code
