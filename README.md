@@ -20,7 +20,7 @@ To view the website locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alnabil07/Website_using_Figma_and_Coded_by_LocofyAI.git
+   https://github.com/alnabil07/Website_using_Figma_and_Coded_by_LocofyAI.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -56,10 +56,11 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+## Devoloper Information
 
-Developed by [Al Nimra Kabir](https://www.facebook.com/alnabil07)
+-Name: [Al Nimra Kabir](https://www.facebook.com/alnabil07)
 
-Contact: alnimra121@gmail.com
+-Contact: alnimra121@gmail.com
 
-GitHub: [@alnabil07](https://github.com/alnabil07)
+-GitHub: [@alnabil07](https://github.com/alnabil07)
 
