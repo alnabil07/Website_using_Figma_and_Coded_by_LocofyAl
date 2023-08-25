@@ -8,7 +8,7 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
-
+______________________________________________________________________________________________________________
 # Code Studio Website
 
 Welcome to the Code Studio Website project! This repository contains the source code and assets for the Code Studio Software Company's website.
@@ -30,44 +30,35 @@ To view the website locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/code-studio-website.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd code-studio-website
-   ```
-3. Open the `index.html` file in a web browser to view the website.
-
-## Usage
-
+   git clone https://github.com/alnabil07/code-studio-website.git
+Navigate to the project directory:
+bash
+Copy code
+cd code-studio-website
+Open the index.html file in a web browser to view the website.
+Usage
 Feel free to explore the website to learn more about Code Studio and its services. You can navigate through different sections using the navigation menu.
 
-## Contributing
-
+Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request. We appreciate your input.
 
-1. Fork the repository.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your commit message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
+Fork the repository.
+Create your feature branch:
+bash
+Copy code
+git checkout -b feature/your-feature-name
+Commit your changes:
+bash
+Copy code
+git commit -m "Add your commit message here"
+Push to the branch:
+bash
+Copy code
+git push origin feature/your-feature-name
+Open a pull request.
+License
+This project is licensed under the MIT License.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Developed by Al Nimra Kabir (https://github.com/alnabil07)
-```
-
-Make sure to replace "your-username" with your actual GitHub username, and customize the content according to your project. This README provides a basic structure to introduce your project, explain how to install and use it, mention contribution guidelines, and provide licensing information.
+Developed by Al Nimra Kabir
+Contact: alnimra121@gmail.com
+GitHub: @alnabil07
