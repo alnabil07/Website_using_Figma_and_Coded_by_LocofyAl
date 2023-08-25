@@ -1,5 +1,4 @@
 
-```markdown
 # Code Studio Website
 
 Welcome to the Code Studio Website project! This repository contains the source code and assets for the Code Studio Software Company's website.
@@ -59,6 +58,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Developed by [Al Nimra Kabir](https://www.facebook.com/alnabil07)
+
 Contact: alnimra121@gmail.com
+
 GitHub: [@alnabil07](https://github.com/alnabil07)
-```
+
