@@ -26,7 +26,7 @@ To view the website locally on your machine, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd code-studio-website
+   cd Website_using_Figma_and_Coded_by_LocofyAI
    ```
 3. Open the `index.html` file in a web browser to view the website.
 
@@ -63,3 +63,4 @@ Developed by [Al Nimra Kabir](https://www.facebook.com/alnabil07)
 Contact: alnimra121@gmail.com
 GitHub: [@alnabil07](https://github.com/alnabil07)
 ```
+
