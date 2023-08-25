@@ -56,9 +56,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-## Devoloper Information
+## Developer Information
 
--Name: [Al Nimra Kabir](https://www.facebook.com/alnabil07)
--Contact: alnimra121@gmail.com
--GitHub: [@alnabil07](https://github.com/alnabil07)
-
+- Name:  [Al Nimra Kabir](https://www.facebook.com/alnabil07)
+- Email: alnimra121@gmail.com
+- GitHub Profile: [alnabil07](https://github.com/alnabil07)
