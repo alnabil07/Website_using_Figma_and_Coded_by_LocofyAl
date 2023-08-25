@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-lexend: Lexend;
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-crimson: #da3f3f;
+  --color-darkslategray-100: #263238;
+  --color-steelblue-100: #08547a;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+}
