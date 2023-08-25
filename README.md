@@ -59,8 +59,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Devoloper Information
 
 -Name: [Al Nimra Kabir](https://www.facebook.com/alnabil07)
-
 -Contact: alnimra121@gmail.com
-
 -GitHub: [@alnabil07](https://github.com/alnabil07)
 
